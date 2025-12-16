@@ -5,9 +5,10 @@
         string nome = "Josue";
         int idade = 22;
         double num = 10.34;
-        boolean n = true;
         
+        //var reconhece o tipo de dado que será colocado na variável
 
-        Console.WriteLine(nome);
+        var variavel = "adapatável";
+        Console.WriteLine(nome + idade + num + variavel);
     }
 }

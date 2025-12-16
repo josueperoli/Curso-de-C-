@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josue\\Desktop\\Curso de C#\\Variaveis\\Variaveis.csproj",
-      "projectName": "Variaveis",
-      "projectPath": "C:\\Users\\josue\\Desktop\\Curso de C#\\Variaveis\\Variaveis.csproj",
+      "projectUniqueName": "C:\\Users\\josue\\Desktop\\Curso de C#\\Constantes\\Constantes.csproj",
+      "projectName": "Constantes",
+      "projectPath": "C:\\Users\\josue\\Desktop\\Curso de C#\\Constantes\\Constantes.csproj",
       "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josue\\Desktop\\Curso de C#\\Variaveis\\obj\\",
+      "outputPath": "C:\\Users\\josue\\Desktop\\Curso de C#\\Constantes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config"
