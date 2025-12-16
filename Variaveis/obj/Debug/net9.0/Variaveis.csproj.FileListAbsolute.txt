@@ -1,0 +1,15 @@
+C:\Users\josue\Desktop\C#\Variaveis\bin\Debug\net9.0\Variaveis.exe
+C:\Users\josue\Desktop\C#\Variaveis\bin\Debug\net9.0\Variaveis.deps.json
+C:\Users\josue\Desktop\C#\Variaveis\bin\Debug\net9.0\Variaveis.runtimeconfig.json
+C:\Users\josue\Desktop\C#\Variaveis\bin\Debug\net9.0\Variaveis.dll
+C:\Users\josue\Desktop\C#\Variaveis\bin\Debug\net9.0\Variaveis.pdb
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\Variaveis.AssemblyInfo.cs
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\Variaveis.sourcelink.json
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\Variaveis.dll
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\refint\Variaveis.dll
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\Variaveis.pdb
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\Variaveis.genruntimeconfig.cache
+C:\Users\josue\Desktop\C#\Variaveis\obj\Debug\net9.0\ref\Variaveis.dll
