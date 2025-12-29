@@ -1,0 +1,15 @@
+C:\Users\josue\Desktop\Curso de C#\Input e Output\bin\Debug\net9.0\Input e Output.exe
+C:\Users\josue\Desktop\Curso de C#\Input e Output\bin\Debug\net9.0\Input e Output.deps.json
+C:\Users\josue\Desktop\Curso de C#\Input e Output\bin\Debug\net9.0\Input e Output.runtimeconfig.json
+C:\Users\josue\Desktop\Curso de C#\Input e Output\bin\Debug\net9.0\Input e Output.dll
+C:\Users\josue\Desktop\Curso de C#\Input e Output\bin\Debug\net9.0\Input e Output.pdb
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\Input e Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\Input e Output.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\Input e Output.AssemblyInfo.cs
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\Input e Output.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\Input e Output.sourcelink.json
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\Input e Output.dll
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\refint\Input e Output.dll
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\Input e Output.pdb
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\Input e Output.genruntimeconfig.cache
+C:\Users\josue\Desktop\Curso de C#\Input e Output\obj\Debug\net9.0\ref\Input e Output.dll
