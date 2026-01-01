@@ -3,7 +3,6 @@
     public static void Main()
     {
         Console.WriteLine("---------Cadastro de usuário---------");
-
         //Solicitar o nome do usuário
         Console.WriteLine("Digite seu nome: ");
         //lê o nome  
