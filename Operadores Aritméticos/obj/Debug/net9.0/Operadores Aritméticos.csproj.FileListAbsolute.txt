@@ -1,0 +1,15 @@
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\Operadores Aritméticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\Operadores Aritméticos.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\Operadores Aritméticos.AssemblyInfo.cs
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\Operadores Aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\Operadores Aritméticos.sourcelink.json
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\bin\Debug\net9.0\Operadores Aritméticos.exe
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\bin\Debug\net9.0\Operadores Aritméticos.deps.json
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\bin\Debug\net9.0\Operadores Aritméticos.runtimeconfig.json
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\bin\Debug\net9.0\Operadores Aritméticos.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\bin\Debug\net9.0\Operadores Aritméticos.pdb
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\Operadores Aritméticos.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\refint\Operadores Aritméticos.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\Operadores Aritméticos.pdb
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\Operadores Aritméticos.genruntimeconfig.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores Aritméticos\obj\Debug\net9.0\ref\Operadores Aritméticos.dll
