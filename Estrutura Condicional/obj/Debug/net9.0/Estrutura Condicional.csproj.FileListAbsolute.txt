@@ -1,0 +1,15 @@
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\bin\Debug\net9.0\Estrutura Condicional.exe
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\bin\Debug\net9.0\Estrutura Condicional.deps.json
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\bin\Debug\net9.0\Estrutura Condicional.runtimeconfig.json
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\bin\Debug\net9.0\Estrutura Condicional.dll
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\bin\Debug\net9.0\Estrutura Condicional.pdb
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\Estrutura Condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\Estrutura Condicional.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\Estrutura Condicional.AssemblyInfo.cs
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\Estrutura Condicional.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\Estrutura Condicional.sourcelink.json
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\Estrutura Condicional.dll
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\refint\Estrutura Condicional.dll
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\Estrutura Condicional.pdb
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\Estrutura Condicional.genruntimeconfig.cache
+C:\Users\josue\Desktop\Curso de C#\Estrutura Condicional\obj\Debug\net9.0\ref\Estrutura Condicional.dll
