@@ -1,0 +1,15 @@
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\bin\Debug\net9.0\Operadores de Atribuição.exe
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\bin\Debug\net9.0\Operadores de Atribuição.deps.json
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\bin\Debug\net9.0\Operadores de Atribuição.runtimeconfig.json
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\bin\Debug\net9.0\Operadores de Atribuição.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\bin\Debug\net9.0\Operadores de Atribuição.pdb
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\Operadores de Atribuição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\Operadores de Atribuição.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\Operadores de Atribuição.AssemblyInfo.cs
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\Operadores de Atribuição.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\Operadores de Atribuição.sourcelink.json
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\Operadores de Atribuição.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\refint\Operadores de Atribuição.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\Operadores de Atribuição.pdb
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\Operadores de Atribuição.genruntimeconfig.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores de Atribuição\obj\Debug\net9.0\ref\Operadores de Atribuição.dll
