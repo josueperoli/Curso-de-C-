@@ -1,0 +1,15 @@
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\bin\Debug\net9.0\Operadores Relacionais.exe
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\bin\Debug\net9.0\Operadores Relacionais.deps.json
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\bin\Debug\net9.0\Operadores Relacionais.runtimeconfig.json
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\bin\Debug\net9.0\Operadores Relacionais.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\bin\Debug\net9.0\Operadores Relacionais.pdb
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\Operadores Relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\Operadores Relacionais.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\Operadores Relacionais.AssemblyInfo.cs
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\Operadores Relacionais.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\Operadores Relacionais.sourcelink.json
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\Operadores Relacionais.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\refint\Operadores Relacionais.dll
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\Operadores Relacionais.pdb
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\Operadores Relacionais.genruntimeconfig.cache
+C:\Users\josue\Desktop\Curso de C#\Operadores Relacionais\obj\Debug\net9.0\ref\Operadores Relacionais.dll
